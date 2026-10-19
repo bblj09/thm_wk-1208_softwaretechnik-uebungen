@@ -9,5 +9,5 @@ Ich habe im Studium erste Erfahrungen mit Java gesammelt. Dabei habe ich kleiner
 
 
 ## Das erwarte ich von der Veranstaltung
-
+Ich möchte lernen, wie man Softwareprojekte strukturiert plant und gemeinsam mit Git und Github bearbeitet
 …
